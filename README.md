@@ -1,5 +1,5 @@
 Hi, i'm Federico Berton Giachetti.  
-I completed my bachelor's degree studies in Physics Engineering at Politecnico di Milano.  
+I completed my bachelor's degree in Physics Engineering at Politecnico di Milano.  
 Currently, I am a master's student in Mathematical Engineering, specializing in the field of Statistical Learning. In this area, I am learning to use mathematical models for data analysis and interpretation.
 
 <!---
